@@ -1,0 +1,5 @@
+build/
+testmodel/
+FbxSdk/
+UniFbxSdkUnity/Assets/Plugins/x64/UniFbxSdk.dll
+UniFbxSdkUnity/Assets/Plugins/x64/UniFbxSdk.dll.meta
